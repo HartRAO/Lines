@@ -1,7 +1,0 @@
-
-HM [memory]
-
-   Hamming smooth the spectrum in the specified memory.
-
-   If the memory is not given as a parameter, the set memory is used.
-
